@@ -1,6 +1,10 @@
+🌱GROW-A-BEANSTALK🌱
+
 Hello there.
 This is a macro for the roblox game "Grow A Garden". It runs using ONLY Autohotkey at the moment.
 The macro is updated every 2-5 days, adding new features and updating the macro as a whole
+
+You can find the latest release at https://github.com/Exquizity/Grow-A-Beanstalk/releases
 
 To ask questions, you can go to either one of these servers:
 

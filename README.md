@@ -19,3 +19,6 @@ CURRENT MAIN FEATURES:
 🥚Egg Autobuy
 
 Theres more, those are just the main ones
+
+
+making gardners happy for free
